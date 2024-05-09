@@ -1,0 +1,28 @@
+
+
+
+
+patient data
+{
+  "_id": {
+    "$oid": "663b302807a68d90b1ffa9e5"
+  },
+  "firstName": "vijay",
+  "lastName": "makwana",
+  "email": "vijay@gmail.com",
+  "phone": 1234567890,
+  "nic": "1234123412345",
+  "dob": {
+    "$date": "2000-12-31T18:30:00.000Z"
+  },
+  "gender": "Male",
+  "password": "$2b$10$AxeVLVIfltQ/s8lJ717bZuIUSQ1Ohs1B0py.gYyJ8QUmykVYQiRdW",
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2024-05-08T07:56:24.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-08T07:56:24.646Z"
+  },
+  "__v": 0
+}

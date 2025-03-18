@@ -1,0 +1,26 @@
+# Node.js (Backend, Dashboard)
+node_modules/
+npm-debug.log
+yarn.lock
+.env
+dist/
+coverage/
+
+# Frontend (React/Vue/Next.js)
+node_modules/
+build/
+dist/
+.DS_Store
+.env.local
+.env.development.local
+.env.production.local
+.npmrc
+
+# Logs
+logs/
+*.log
+yarn-error.log
+
+# OS-specific
+Thumbs.db
+.DS_Store

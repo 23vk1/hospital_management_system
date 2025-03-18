@@ -7,8 +7,7 @@ import AboutUs from "./pages/AboutUs";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
 
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify-css"
+import { ToastContainer } from "react-toastify";
 import Navbar from "./components/Navbar";
 import Footer from './components/Footer';
 import { Context } from "./main";
